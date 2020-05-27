@@ -1,7 +1,14 @@
 # Jumpman
 *Name subject to change
 
-Version: 0.2.6
+Version: 0.2.7
+
+Changelog v 0.2.7
+
+- ADDED World select level
+- Updated the timer to match the current World
+
+
 
 Changelog v 0.2.6
 
