@@ -1,5 +1,13 @@
 # ¡Oi!
-*Name subject to change
+
+Version: 0.3.1
+
+Changelog v 0.3.1
+
+- Added Sounds to:
+  - Jumping
+  - Walljumping
+  - Bouncing :)
 
 Version: 0.3
 
