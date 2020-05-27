@@ -1,4 +1,4 @@
-# Oi
+# ¡Oi!
 *Name subject to change
 
 Version: 0.3
