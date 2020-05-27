@@ -1,7 +1,12 @@
-# Jumpman
+# Oi
 *Name subject to change
 
-Version: 0.2.7
+Version: 0.3
+
+Changelog v 0.3
+
+- Visual changes
+
 
 Changelog v 0.2.7
 
